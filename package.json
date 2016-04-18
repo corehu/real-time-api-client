@@ -1,0 +1,23 @@
+{
+  "name": "real-time-api-client",
+  "version": "1.0.0",
+  "description": "a simple client for real time API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corehu/real-time-api-client.git"
+  },
+  "keywords": [
+    "api",
+    "client"
+  ],
+  "author": "Corneliu Husaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corehu/real-time-api-client/issues"
+  },
+  "homepage": "https://github.com/corehu/real-time-api-client#readme"
+}
